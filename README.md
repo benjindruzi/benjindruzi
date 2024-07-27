@@ -29,16 +29,16 @@ I'm a Full Stack Web Developer currently pursuing a Master's in Computer Science
 
 ## 👨‍💻 Projects and Contributions:
 
-
+I have contributed to multiple projects during my previous internships at some startups. In my free time, I work on personal projects and try to discover new trends and technologies in the industry. I am always looking for open-source projects to contribute to in order to keep my skills sharp.
 
 ## ✈️ Personal Interests:
 
-Beyond coding, I'm an avid aviation aficionado. I enjoy watching videos of planes landing and taking off and often find myself quoting famous pilot lines out of the blue. I seize every opportunity to learn more about planes.
-
-I'm also a huge anime fan and an avid reader, always looking for the next great book to dive into.
+- I love watching anime and playing video games.
+- I am passionate about anything related to aviation. If I were not a developer, I would be a pilot.
+- I have been trying to read a lot lately. The next book I want to read is Divine Comedy by Dante Alighieri.
 
 ## 📫 How to Reach Me:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [LeetCode](https://leetcode.com/your-leetcode-profile)
+- **Email:** [benjikialanda@gmail.com](mailto:benjikialanda@gmail.com)
+- **LinkedIn:** [benjindruzi](https://www.linkedin.com/in/benjindruzi/)
 
