@@ -1,6 +1,6 @@
 # Hi there, I'm Benjamin 👋
 
-I'm a Full Stack Web Developer currently pursuing a Master's in Computer Science. Besides the web, I'm looking forward to diving deep into Cloud Computing, DevOps, and Distributed Systems,. In this fast-changing world, I believe cloud computing is one of the most fascinating and promising fields in the industry. Combined with the power of AI, I am very positive about the incredible things we can achieve.
+I'm a Full Stack Web Developer currently pursuing a Master's in Computer Science. Besides the web, I'm looking forward to diving deep into Cloud Computing, DevOps, and Distributed Systems,. In this fast-changing world, I believe cloud computing is one of the most fascinating and promising fields in the industry. Combined with the power of AI, I am very positive about the incredible things it can achieve.
 
 ## 🚀 Skills and Technologies:
 
